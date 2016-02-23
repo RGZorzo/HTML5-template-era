@@ -1,0 +1,498 @@
+
+@media (max-width:1324px){
+    .footer-clm3{
+	width: 30%;
+    }
+    .footer-clm1{
+	width: 40%;
+    }
+    
+    /*MQS NAV MENU TOP_______*/
+    
+    #nav-menu ul li{
+	margin:0;
+	width: 50%;
+    }
+    .wrapper{
+	width: 90%;
+    }
+.portada-item h1{
+    font-size: 3em;
+    
+}
+#frase-vinos{
+    font-size: 1em;
+}
+.presentation, .presentation2{
+    font-size: .9em;
+}
+/*MQS INDEX__________*/
+
+.p3 .presentation-menu{
+    width: 40%;
+    margin-left: 0;
+}
+.p3 .presentation-vino{
+    width: 40%;
+    margin-right: 0%;
+}
+.p3 .presentation-arrowtop{
+    width: 15%;
+    float: left;
+    position: relative;
+}
+.p3 .btn-pres{
+    font-size: .8em;
+}
+.presentation-arrowtop p{
+    padding: 15%;
+}
+.presentation-p{
+    padding-bottom: 50px;
+}
+
+
+
+
+/*MEDIQUERIES MENU/CARTA____*/
+
+.menu-line{
+    width: 30%;
+    font-size: .9em;
+    font-weight: 300;
+    margin-left: 10%;
+    padding-right: 5%;
+    float: left;
+    overflow: hidden;
+}
+.menu-line2{
+    float: right;
+    width: 60%;
+    margin-top: 250px;
+}
+.carta-menu li{
+    margin-top: 1em;
+    font-weight: 300;
+}
+
+/*MEDIQUERIES VINOS___________*/
+
+.vinos{
+    width: 40%;
+    margin: 0 auto;
+    float:left;
+    position: relative;
+    margin-left: 10%;
+}
+.vinos:first-child{
+    margin-left: 10%;
+}
+.wine-detail p, .menu-detail p{
+    line-height: 2em;
+    width: 80%;
+    margin:0 auto;
+    font-size: .9em;
+    padding:150px 0;
+    padding-top: 150px;
+}
+
+}
+@media (max-width:1024px){
+    
+    
+    /*MQS INDEX__________*/
+
+    .presentation{
+	margin-top: 100px;
+	text-align: center;
+    }
+    .presentation-p{
+	width: 100%;
+	margin-right: 0;
+	padding-bottom: 50px;
+    }
+    .presentation-p h2:after{
+	margin:0 auto;
+	margin-top: 20px;
+	margin-bottom: 40px;
+    }
+    .presentation-p .btn-pres{
+	margin:0 auto;
+	margin-top: 30px;
+    }
+    .presentation-gallery{
+	width: 100%;
+	height: 500px;
+    }
+    .presentation-vino{
+	width: 49%;
+    }
+    .presentation-menu{
+	width: 49%;
+	margin:0;
+	margin-right: 2%;
+    }
+    .presentation-menu p, .presentation-vino p{
+	padding-right: 10%;
+    }
+    .presentation2{
+	margin-bottom: 50px;
+    }
+    .presentation-p.findes-p{
+	float: left;
+	width: 100%;
+	margin:0;
+	margin-top: 40px;
+	padding: 0;
+    }
+    .presentation-gallery.findes-gallery{
+	padding-top: 0px;
+    }
+    .p3 .presentation-menu{
+    width: 49%;
+    margin-left: 0;
+    margin-right: 2%;
+}
+.p3 .presentation-vino{
+    width: 49%;
+    margin-right: 0%;
+}
+.p3 .presentation-arrowtop{
+    width: 0%;
+    display: none;
+}
+    
+    
+/*MEDIAQUERIES NOSOTROS_______________*/
+    .about .wrapper p{
+	width: 100%;
+    }
+    .about{
+	padding-top: 75px;
+    }
+    .about-gallery img{
+	width: 49.8%;
+    }
+    /*MEDIAQUERIES VINOS__________*/
+    
+    .vinos{
+    width: 100%;
+    text-align: center;
+    float:left;
+    position: relative;
+    font-size: .9em;
+    margin: 0;
+}
+.vinos h3:after{
+    margin:0 auto;
+}
+.vinos:first-child{
+    margin-left: 0;
+}
+.vinos img{
+    display: none;
+}
+.carta-vinos{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.wine-detail p{
+    line-height: 2em;
+    width: 90%;
+    margin:0 auto;
+    padding:100px 0;
+    padding-top: 100px;
+}
+/*MEDIQUERIES MENU/CARTA____*/
+
+.menu-line{
+    width: 80%;
+    font-size: .9em;
+    font-weight: 300;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    float: left;
+    overflow: hidden;
+}
+.clmn1, .clmn2{
+    float: none;
+    
+}
+.clmn-3{
+    float: none;
+    margin-bottom: 0px;
+}
+.menu-line h3:after{
+    margin:0 auto;
+}
+.menu-line2{
+    float: right;
+    width: 100%;
+    margin-top: 100px;
+}
+.carta-menu li{
+    margin-top: 1em;
+    font-weight: 300;
+}
+    
+}
+@media (max-width:750px){
+    /*MQS FOOTER_______*/
+    .footer-wrapper{
+	padding-top: 0px;
+	padding-bottom: 30px;
+    }
+    .footer-clm1{
+	width: 50%;
+	margin:0;
+    }
+    .footer-clm2{
+	width: 50%;
+    }
+    .footer-clm3{
+	width: 100%;
+	margin:0;
+	margin-top: 30px;
+	padding: 0;
+    }
+    
+    
+    /*MQS MENU TOP*/_________
+    .nav-menu-logo{
+	margin-top: 00px;
+    }
+    #nav-menu nav{
+	font-size: .9em;
+    }
+    #nav-menu ul{
+	width: 50%;
+	margin:0 auto;
+    }
+    #nav-menu ul li{
+	width: 100%;
+	margin:5px auto;
+	text-align: center;
+    }
+    
+    
+     .vector1, .vector2{
+	display: none;
+    }
+    
+    #mainbody{
+	font-size:.9em;
+    }
+    #mainbody h2{
+	letter-spacing: 5px;
+    }
+    .vinos{
+	font-size: .8em;
+    }
+    .presentation{
+	margin-top: 50px;
+    }
+    .presentation-gallery img{
+	width: 100%;
+    }
+    #slider{
+	height: 100%;
+	padding-bottom: 0;
+    }
+    .presentation-gallery.contain{
+	float:none;
+	overflow: hidden;
+    }
+    
+    
+    .p3 .presentation-menu, .presentation-menu{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0%;
+    margin-bottom: 50px;
+}
+.p3 .presentation-vino, .presentation-vino{
+    width: 100%;
+    margin-right: 0%;
+}
+.p3 .presentation-arrowtop{
+    width: 0%;
+}
+.presentation-menu p, .presentation-vino p{
+    padding: 0;
+}
+    
+}
+@media (max-width:600px){
+    /*MQ FORM RESERVA______*/
+    
+    #menu{
+    width: 270px;
+    float:right;
+    position: fixed;
+    top:0;
+    right: -270px;
+    background: #eeeeee;
+    height: 100%;
+    font-weight: 300;
+    -webkit-transition: all .5s;
+}
+#menu form{
+    width: 90%;
+    margin:0 auto;
+    margin-top: 40%;
+}
+    
+    
+    /*MQ MEN TOP______*/
+    #nav-menu ul{
+	width: 70%;
+	margin:0 auto;
+    }
+    #nav-menu .wrapper{
+	width: 100%;
+    }
+    #nav-menu p{
+	display: none;
+    }
+    
+    #nav-menu nav{
+	margin-top: 0;
+	font-size: .7em;
+    }
+    #nav-menu ul{
+	width: 80%;
+	margin:0 auto;
+    }
+    #nav-menu ul li{
+	width: 100%;
+	margin:5px auto;
+	text-align: center;
+    }
+    /*MQ INDEX_______*/
+    
+    .portada-item h1{
+    font-size: 2em;
+    
+}
+
+.presentation-gallery{
+    margin-bottom: -150px;
+    float: none;
+    padding: 0;
+}
+
+.fullbanner-presentation{
+    background: url(../img/erabannerfull2.jpg) no-repeat center;
+    background-position: right;
+    background-position-x: -1420px;
+}
+#frase-vinos{
+    font-size: .8em;
+    width: 50%;
+    text-align: right;
+}
+
+/*MEDIAQUERIES NOSOTROS_______________*/
+.about .wrapper{
+    width: 80%;
+    margin-bottom: 50px;
+}
+    .about .wrapper p{
+	width: 100%;
+	font-size: .9em;
+    }
+    .about{
+	padding-top: 75px;
+    }
+    .about-gallery img{
+	width: 99.8%;
+	margin-bottom: 2px;
+    }
+    #reservation-btn{
+	display: none;
+    }
+    .presentation-gallery .arrowleft{
+    top:15%;
+    left: 5px;
+    cursor: pointer;
+}
+.presentation-gallery .arrowright{
+    top:15%;
+    right: 5px;
+    cursor: pointer;
+}
+    /*MEDIQUERIES CONTACTO_______*/
+    
+   
+    
+}
+
+@media (max-width:450px){
+    footer{
+	font-size: .9em;
+    }
+    footer .reservation-btn{
+	font-size: 1.2em;
+    }
+    #nav-menu nav{
+	margin-bottom: 0;
+	margin-top: -50px;
+    }
+    
+    #nav-menu ul{
+	margin-top: 20px;
+    }
+    #nav-menu ul li{
+	margin-top: 0px;
+    }
+    
+    .portada-item h1{
+    font-size: 1.2em;
+    letter-spacing: 10px;
+    }
+    
+.presentation-gallery{
+    margin-bottom: -250px;
+    float: none;
+    padding: 0;
+}
+
+    #reservation-btn{
+	display: none;
+    }
+    #portada-minilogo{
+	left: 18%;
+	font-size: .6em;
+    }
+    #portada-minilogo img{
+	width: 100px;
+	padding-bottom: 15px;
+    }
+    .portada-social{
+	margin-top: 52px;
+    }
+    header{
+	position: fixed;
+	top:0;
+    }
+        /*MEDIQUERIES CONTACTO_______*/
+	
+	.contact .wrapper{
+	    width: 100%;
+	}
+	.contact-data p{
+    margin:50px 0;
+    font-size: 1em;
+    }
+    /*MQ VINOS_________*/
+    .wine-detail p{
+	padding: 20px;
+	line-height: 1.7em;
+	padding-bottom: 50px;
+	font-size: .8em;
+    }
+    
+}
+
